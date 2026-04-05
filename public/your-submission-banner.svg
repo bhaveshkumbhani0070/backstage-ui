@@ -1,0 +1,29 @@
+<svg width="642" height="99" viewBox="0 0 642 99" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="642" height="99" fill="#F0FDF4" />
+  <g opacity="0.95">
+    <path d="M36 55C58 20 84 73 108 33C128 2 152 66 176 42" stroke="#F97316" stroke-width="6" stroke-linecap="round" />
+    <path d="M478 60C500 23 528 70 550 30C570 0 596 65 620 38" stroke="#16A34A" stroke-width="6" stroke-linecap="round" />
+    <path d="M72 18L80 26" stroke="#EC4899" stroke-width="5" stroke-linecap="round" />
+    <path d="M86 15L92 29" stroke="#0EA5E9" stroke-width="5" stroke-linecap="round" />
+    <path d="M104 16L115 22" stroke="#FACC15" stroke-width="5" stroke-linecap="round" />
+    <path d="M532 14L540 24" stroke="#F97316" stroke-width="5" stroke-linecap="round" />
+    <path d="M554 13L562 28" stroke="#A855F7" stroke-width="5" stroke-linecap="round" />
+    <path d="M576 16L588 22" stroke="#14B8A6" stroke-width="5" stroke-linecap="round" />
+    <circle cx="132" cy="20" r="5" fill="#22C55E" />
+    <circle cx="514" cy="20" r="5" fill="#F43F5E" />
+    <rect x="144" y="14" width="9" height="9" rx="2" transform="rotate(24 144 14)" fill="#FB7185" />
+    <rect x="498" y="17" width="9" height="9" rx="2" transform="rotate(-18 498 17)" fill="#FACC15" />
+  </g>
+  <text
+    x="321"
+    y="56"
+    text-anchor="middle"
+    fill="#15803D"
+    font-family="Inter, Arial, sans-serif"
+    font-size="15"
+    font-weight="700"
+    letter-spacing="3"
+  >
+    YOUR SUBMISSION
+  </text>
+</svg>
